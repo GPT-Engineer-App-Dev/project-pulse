@@ -1,5 +1,5 @@
 import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
-import { Box } from "@mui/material";
+import { Box } from "@chakra-ui/react";
 import Index from "./pages/Index.jsx";
 import Footer from "./components/Footer.jsx";
 
